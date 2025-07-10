@@ -1,5 +1,6 @@
 # My-First-Repo
-<hr>
+
 This is my first Git Repository.
 <br><br>
+<hr>
 Author - Gargie
